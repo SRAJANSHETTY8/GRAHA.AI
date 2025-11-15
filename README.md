@@ -1,5 +1,8 @@
 # Graha.AI – 2D AI Home Plan Predictor
 AI-powered 2D home plan generator: Python ML backend + Flask web interface.
+
+
+Graha.AI is an innovative web-based application that leverages Artificial Intelligence (AI) to generate custom floor plans for homes based on user inputs. This tool allows users to input the number of rooms, bathrooms, living areas, and other essential spaces, and the AI system will predict the most suitable floor plan based on these details.
 ---
 
 ## Overview
