@@ -27,19 +27,20 @@ AI-powered 2D home plan generator: Python ML backend + Flask web interface.
 - **Model:** K-Nearest Neighbors (KNN)  
 - **Dataset:** Custom floor plan dataset (rooms, garage, labels, etc.)
 ---
-### Project structure (important files)
 
--** app.py**  — main Flask application
+Project structure (important files)
 
-** model/knn_model.pkl**  — trained KNN model
+app.py — main Flask application
 
-** static** / — CSS, JS, images
-** templates** / — HTML UI
+model/knn_model.pkl — trained KNN model
 
-** dataset** / — floor plan dataset used for model training
+static/ — CSS, JS, images
 
-** requirements.txt**  — project dependencies
+templates/ — HTML UI
 
+dataset/ — floor plan dataset used for model training
+
+requirements.txt — project dependencies
 ## Quick start (development)
 
 ### Clone the repository:
