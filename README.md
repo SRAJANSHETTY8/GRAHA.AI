@@ -81,6 +81,8 @@ The algorithm finds the closest matching floor plan from the dataset.
 Predicted 2D home layout is displayed on the UI.
 
 Note:
+
+
 Adding more labeled images improves prediction accuracy.
 
 Model parameters can be tweaked for better performance.
